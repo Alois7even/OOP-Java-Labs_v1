@@ -1,0 +1,4 @@
+Name: Alois
+Course: Computer Science
+University: HIT
+Year: 2
