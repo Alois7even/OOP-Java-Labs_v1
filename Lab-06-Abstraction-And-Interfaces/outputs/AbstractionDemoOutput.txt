@@ -1,0 +1,4 @@
+﻿Car starts with a key
+Vehicle stopped
+Bike starts with a button
+Vehicle stopped

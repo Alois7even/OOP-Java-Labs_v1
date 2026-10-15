@@ -1,0 +1,4 @@
+﻿Name: Alois
+Age: 21
+Course: Computer Science
+StudentRecord[name=Alois, age=21, course=Computer Science]

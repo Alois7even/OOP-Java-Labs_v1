@@ -17,3 +17,6 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.log
+
+# Local testing automation
+Run-And-Capture.ps1

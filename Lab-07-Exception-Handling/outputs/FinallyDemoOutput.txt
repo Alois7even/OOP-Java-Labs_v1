@@ -1,0 +1,3 @@
+﻿Error: Cannot divide by zero.
+Finally block executed.
+Program finished.

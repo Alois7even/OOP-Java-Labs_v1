@@ -1,0 +1,8 @@
+﻿Brand: Toyota
+Colour: Red
+Speed: 0 km/h
+Current speed: 10 km/h
+Current speed: 20 km/h
+Brand: Toyota
+Colour: Red
+Speed: 20 km/h

@@ -6,7 +6,7 @@ public class FileReadDemo {
     public static void main(String[] args) {
 
         try {
-            File file = new File("../Lab-10/student.txt");
+            File file = new File("student.txt");
             Scanner reader = new Scanner(file);
 
             while (reader.hasNextLine()) {

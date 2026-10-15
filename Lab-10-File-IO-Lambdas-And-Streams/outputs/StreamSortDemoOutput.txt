@@ -1,0 +1,2 @@
+﻿Original list: [40, 10, 30, 20]
+Sorted list: [10, 20, 30, 40]

@@ -5,7 +5,7 @@ public class FileAppendDemo {
     public static void main(String[] args) {
 
         try {
-            FileWriter writer = new FileWriter("../Lab-10/student.txt", true);
+            FileWriter writer = new FileWriter("student.txt", true);
 
             writer.write("Year: 2\n");
 

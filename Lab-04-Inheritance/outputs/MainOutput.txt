@@ -1,0 +1,3 @@
+﻿Name: Alois
+Salary: $1500.0
+Department: CS

@@ -1,0 +1,5 @@
+﻿First balance:
+500.0
+Invalid balance!
+Final balance:
+500.0

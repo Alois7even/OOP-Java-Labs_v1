@@ -1,0 +1,2 @@
+﻿Error: Age must be 18 or above.
+Program continues.

@@ -1,0 +1,4 @@
+﻿Student names: [Alois, Miles, Jinwoo]
+After removing Alois: [Miles, Jinwoo]
+First student: Miles
+Total students: 2

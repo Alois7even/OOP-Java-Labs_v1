@@ -1,0 +1,4 @@
+﻿Students: {101=Alois, 102=Miles, 103=Jinwoo}
+Student 102: Miles
+After removal: {101=Alois, 102=Miles}
+Total students: 2

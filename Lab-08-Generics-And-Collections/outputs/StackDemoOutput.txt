@@ -1,0 +1,3 @@
+﻿Stack: [Java, Python, C++]
+Top book: C++
+After removing the top book: [Java, Python]

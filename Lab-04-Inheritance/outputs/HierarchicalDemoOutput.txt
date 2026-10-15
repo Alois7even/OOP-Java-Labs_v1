@@ -1,0 +1,9 @@
+﻿Manager Details:
+Name: Miles
+Salary: $1500.0
+Department: CS
+
+Developer Details:
+Name: Alois
+Salary: $1200.0
+Programming Language: Java

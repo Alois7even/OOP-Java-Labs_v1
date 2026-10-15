@@ -1,0 +1,3 @@
+﻿Name: Alois
+Student ID: H250002N
+Research Topic: Artificial Intelligence

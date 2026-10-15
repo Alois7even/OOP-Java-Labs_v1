@@ -1,0 +1,3 @@
+﻿Queue: [Alois, Miles, Jinwoo]
+Next customer: Alois
+After serving one customer: [Miles, Jinwoo]
